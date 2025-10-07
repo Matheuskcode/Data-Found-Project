@@ -1,0 +1,2 @@
+pip install polars
+pip install duckdb
